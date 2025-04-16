@@ -1,1 +1,1 @@
-printHi Colleagues!")
+print("Hi Friends!")
