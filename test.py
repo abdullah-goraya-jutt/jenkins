@@ -1,1 +1,1 @@
-print("Hi Undergraduates!")
+printHi Undergraduates!")
